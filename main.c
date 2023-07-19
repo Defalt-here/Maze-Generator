@@ -25,6 +25,7 @@ int main()
         //printf("%d\n",count);
     }
     display();
+    system("pause");
     return 0;
 }
 void path()
